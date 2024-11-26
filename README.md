@@ -1,6 +1,3 @@
-Here’s a clean and engaging `README.md` file for your GitHub repository:  
-
-```markdown
 # 🌤️ Responsive Weather App  
 
 ## 📋 Overview  
@@ -24,36 +21,6 @@ The **Responsive Weather App** is a modern, user-friendly application that deliv
 - **Data Fetching**: Tanstack Query  
 - **Charts**: Recharts  
 - **UI Components**: Shadcn UI  
-
----
-
-2. **Install dependencies**:  
-   ```bash
-   npm install
-   ```
-
-3. **Set up environment variables**:  
-   Create a `.env` file in the root directory and add your OpenWeather API key:  
-   ```env
-   REACT_APP_WEATHER_API_KEY=your_api_key
-   ```
-
-4. **Run the app locally**:  
-   ```bash
-   npm start
-   ```
-
-5. Open your browser and navigate to `http://localhost:3000`.  
-
----
-
-## 📊 API Integration  
-This app uses the **OpenWeather API** to fetch:  
-- Current weather details.  
-- Hourly temperature trends.  
-- Global city weather searches.  
-
-Get your API key [here](https://openweathermap.org/api).  
 
 ---
 
